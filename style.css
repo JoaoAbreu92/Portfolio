@@ -1,4 +1,10 @@
 
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'josefin Sans' , sans-serif;
+    box-sizing: border-box;
+}
 .super{
     height: 100vh;
     width: 100%;
