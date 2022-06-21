@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-<p align="center">Esse foi o projeto onde aprendi um pouco mais sobre HTML e css</p>
+<p align="center">Meu primeiro projeto</p>
 
 
 <h4 align="center"> 
